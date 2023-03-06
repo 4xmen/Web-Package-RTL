@@ -4,40 +4,26 @@
     <img src="xUtA0PwF.gif" alt="WEB Package RTL" >
   </a>
   <br>
-  <a href="https://anubias.app">X Mega Menu</a>
+  <a href="https://github.com/4xmen/Web-Package-RTL">Web Package (RTL)</a>
   <br>
   <hr>
 </h1>
 
 
-# X-Mega-Menu
+# Web Package (RTL)
 
-x mega menu is easy usable multi level responsive with vanillaJS (ltr and rtl support).
+If you want A Full Web Package Direction RTL that is usefull For WebPages easy to use and Sorted by folders - This package is usefull for you ... :)
 
 
 ## How use it?
-With package manager:
-````
-npm i x-mega-menu
-````
-or
-````
-yarn add x-mega-menu
-````
-or use dist file of repo.
-
-add assets:
-```html
-   <link rel="stylesheet" href="../dist/x-mega-menu.css">
-   <script src="../dist/x-mega-menu.js"></script>
-```
+U Can Download As zip and use any package you need for your website .
 
 
 # Demo
 
 <div align="center">
 <h2>Mega Menu Style</h2>
-<img src="example/img/mega-menu.png" width="600px">
+<img src="example/img/mega-menu.png" width="450">
 </div>
 <div align="center">
 <h2>Blue Theme</h2>
@@ -52,12 +38,6 @@ add assets:
 <img src="example/img/screen-sidemenu-dark.png" width="450px">
 </div>
 
-## 🔗 Links
-https://www.npmjs.com/package/x-tree-select
-<br>
-http://4xmen.ir/
-<br>
-https://xstack.ir
 
 
 ## Features
@@ -76,20 +56,14 @@ https://xstack.ir
 
 
 
-## Theme
-
-* Dark
-* Red
-* Blue
-
 ## Report Some Bugs
-Find a Bug? Please, [create an issue](https://github.com/4xmen/x-mega-menu/issues) and we'll fix it together for a better template.
+Find a Bug? Please, [create an issue](https://github.com/4xmen/Web-Package-RTL/issues) and we'll fix it together for a better template.
 
 ## Contribution
 Contribution are always welcome and recommended! Here is how:
 
 - Fork the repository ([here is the guide](https://help.github.com/articles/fork-a-repo/)).
-- Clone to your machine git clone https://github.com/YOUR_USERNAME/Anubias-Desktop.git
+- Clone to your machine git clone https://github.com/YOUR_USERNAME/Web-Package-RTL.git
 - Make your changes
 - Create a pull request
 
@@ -97,7 +71,7 @@ Contribution are always welcome and recommended! Here is how:
 
 <div align="center">
 
-[![X-Mega-Menu](https://img.shields.io/badge/Mega-Menu-red.svg)](https://anubias.app/)
+[![Web-Package-RTL](https://img.shields.io/badge/Web-Package-RTL.svg)](https://anubias.app/)
 [![GitHub](https://img.shields.io/badge/Github-4xmen-blue.svg)](https://GitHub.com/4xmen)
 [![Xstack](https://img.shields.io/badge/Xstack-Team-red.svg)](https://xstack.ir)
 [![4xmen](https://img.shields.io/badge/4xmen-Team-black.svg)](https://4xmen.ir)
