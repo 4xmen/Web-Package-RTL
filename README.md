@@ -1,7 +1,7 @@
 <h1 align="center">
   <br>
   <a href="https://anubias.app/">
-    <img src="xUtA0PwF.gif" alt="WEB Package RTL" width="150">
+    <img src="xUtA0PwF.gif" alt="WEB Package RTL" width="450" height="200">
   </a>
   <br>
   <a href="https://anubias.app">X Mega Menu</a>
