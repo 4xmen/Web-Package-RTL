@@ -1,0 +1,29 @@
+{
+  "name": "mega-menu-rtl",
+  "version": "1.0.0",
+  "description": "RTL Mega Menu Bootstrap",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/YasinDehfuli/Mega-Menu-RTL.git"
+  },
+  "keywords": [
+    "Mega-menu",
+    "Rtl-Mega-Menu",
+    "Mega-Menu"
+  ],
+  "author": "Nisay",
+  "license": "GPL-3.0-or-later",
+  "bugs": {
+    "url": "https://github.com/YasinDehfuli/Mega-Menu-RTL/issues"
+  },
+  "homepage": "https://github.com/YasinDehfuli/Mega-Menu-RTL#readme",
+  "dependencies": {
+    "@fortawesome/fontawesome-free": "^6.3.0",
+    "jquery": "^2.1.3",
+    "vazirmatn": "^33.0.3"
+  }
+}
