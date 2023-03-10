@@ -1,0 +1,62 @@
+* {
+  font-family: Vazirmatn, "Vazirmatn FD", serif;
+}
+
+#contact {
+  margin: 15px;
+}
+
+.contact-img {
+  transition: 666ms;
+  max-width: 100%;
+  display: block;
+  margin: auto;
+}
+.contact-img:hover {
+  transform: scale(105%);
+}
+
+.address-box {
+  text-align: center;
+  position: relative;
+  margin-bottom: 35px;
+}
+.address-box:before {
+  content: "";
+  width: 100%;
+  height: 2px;
+  background: rgba(0, 0, 0, 0.1);
+  position: absolute;
+  top: 17px;
+  right: 0;
+}
+.address-box .title-bar {
+  font-size: 120%;
+  border: 2px solid rgba(0, 0, 0, 0.1);
+  padding: 0.3em 1em 0.5rem;
+  background: #fff;
+  position: relative;
+  font-weight: 400;
+}
+
+.btn-contact {
+  border: 1px solid transparent;
+  border-radius: 5px;
+  background: #cd691d;
+  text-align: center;
+  color: black;
+  font-size: 1em;
+  cursor: pointer;
+  padding: 5px 20px 8px;
+  max-width: 100%;
+  display: block;
+  margin: auto;
+  transition: 666ms;
+}
+.btn-contact:hover {
+  color: #fffffe;
+  background: #e37c2c;
+  transform: scaleX(112%);
+}
+
+/*# sourceMappingURL=style.css.map */

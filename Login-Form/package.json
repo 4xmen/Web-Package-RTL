@@ -1,0 +1,28 @@
+{
+  "name": "loginform-rtl",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/YasinDehfuli/LoginForm-RTL.git"
+  },
+  "keywords": [
+    "ContactForm",
+    "ContactUs",
+    "RTL-Form"
+  ],
+  "author": "Nisay",
+  "license": "GPL-3.0-or-later",
+  "bugs": {
+    "url": "https://github.com/YasinDehfuli/LoginForm-RTL/issues"
+  },
+  "homepage": "https://github.com/YasinDehfuli/LoginForm-RTL#readme",
+  "dependencies": {
+    "bootstrap": "^5.2.3",
+    "vazirmatn": "^33.0.3"
+  }
+}
