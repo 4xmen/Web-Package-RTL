@@ -22,11 +22,11 @@ U Can Download As zip and use any package you need for your website .
 # Demo
 
 <div align="center">
-<h2>Mega Menu RTL</h2>
+<h2>Mega Menu </h2>
 <a href="https://github.com/4xmen/Web-Package-RTL/tree/main/Mega-Menu"><img src="Mega-Menu/Mega-Menu-Screen.png" width="1010px"></a>
 </div>
 <div align="center">
-<h2>Blue Theme</h2>
+<h2>Contact Form</h2>
 <img src="Login-Form/assets/img/readme-contact.png" width="1010px">
 </div>
 <div align="center">
