@@ -1,0 +1,143 @@
+footer {
+  background-color: #fff;
+
+  .footer-head {
+    background-color: #fff;
+    display: flex;
+    flex-direction: row;
+    list-style: none;
+    justify-content: center;
+    align-items: center;
+    margin: 0 auto;
+
+    li {
+      display: flex;
+      align-items: center;
+      margin-left: 8px;
+      justify-content: center;
+
+      p {
+        margin-top: 15px;
+        font-size: .9rem;
+        color: #9f9f9f;
+        font-weight: 800;
+      }
+
+      span {
+        display: block;
+        color: #9f9f9f;
+        font-weight: 600;
+      }
+
+      img {
+        width: 50px;
+        height: 50px;
+      }
+    }
+  }
+
+  .footer-list {
+    list-style: none;
+
+    li {
+      display: block;
+
+      &:first-child {
+        font-weight: 600;
+        font-size: 1.2rem;
+        margin-bottom: 20px;
+
+        a {
+          color: #000;
+          display: block;
+          font-size: 1.2rem;
+
+          &:hover {
+            color: black;
+          }
+        }
+      }
+
+      a {
+        display: block;
+        text-decoration: none;
+        color: #9f9f9f;
+        padding: 2px 0;
+        font-size: .9rem;
+        width: fit-content;
+
+        &:hover {
+          color: #651fff;
+        }
+      }
+    }
+
+  }
+
+  #mag {
+    p {
+      font-size: 0.9rem;
+    }
+  }
+
+  #desc {
+    p {
+      &:first-child {
+        font-size: 1rem;
+        color: #000;
+      }
+      line-height: 1.5;
+      color: #9f9f9f;
+    }
+  }
+
+  #e-namad{
+    img{
+      width: 150px;
+      height: 150px;
+    }
+  }
+
+  .copy{
+    color: black;
+    font-size: 1rem;
+    background-color: #9f9f9f;
+  }
+}
+
+
+@media (max-width: 1000px) {
+  footer{
+    .footer-head {
+      display: flex;
+      flex-direction: column;
+
+      li {
+        display:block;
+        text-align: center;
+        margin: 0 auto;
+        justify-content: center;
+
+        p {
+          margin-top: 15px;
+          font-size: .9rem;
+          color: #9f9f9f;
+          font-weight: 800;
+        }
+
+        span {
+          display: block;
+          color: #9f9f9f;
+          font-weight: 600;
+        }
+
+        img {
+          width: 50px;
+          height: 50px;
+          margin: 0 auto;
+        }
+      }
+    }
+
+  }
+}

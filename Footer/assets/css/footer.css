@@ -1,0 +1,114 @@
+footer {
+  background-color: #fff;
+}
+footer .footer-head {
+  background-color: #fff;
+  display: flex;
+  flex-direction: row;
+  list-style: none;
+  justify-content: center;
+  align-items: center;
+  margin: 0 auto;
+}
+footer .footer-head li {
+  display: flex;
+  align-items: center;
+  margin-left: 8px;
+  justify-content: center;
+}
+footer .footer-head li p {
+  margin-top: 15px;
+  font-size: 0.9rem;
+  color: #9f9f9f;
+  font-weight: 800;
+}
+footer .footer-head li span {
+  display: block;
+  color: #9f9f9f;
+  font-weight: 600;
+}
+footer .footer-head li img {
+  width: 50px;
+  height: 50px;
+}
+footer .footer-list {
+  list-style: none;
+}
+footer .footer-list li {
+  display: block;
+}
+footer .footer-list li:first-child {
+  font-weight: 600;
+  font-size: 1.2rem;
+  margin-bottom: 20px;
+}
+footer .footer-list li:first-child a {
+  color: #000;
+  display: block;
+  font-size: 1.2rem;
+}
+footer .footer-list li:first-child a:hover {
+  color: black;
+}
+footer .footer-list li a {
+  display: block;
+  text-decoration: none;
+  color: #9f9f9f;
+  padding: 2px 0;
+  font-size: 0.9rem;
+  width: fit-content;
+}
+footer .footer-list li a:hover {
+  color: #651fff;
+}
+footer #mag p {
+  font-size: 0.9rem;
+}
+footer #desc p {
+  line-height: 1.5;
+  color: #9f9f9f;
+}
+footer #desc p:first-child {
+  font-size: 1rem;
+  color: #000;
+}
+footer #e-namad img {
+  width: 150px;
+  height: 150px;
+}
+footer .copy {
+  color: black;
+  font-size: 1rem;
+  background-color: #9f9f9f;
+}
+
+@media (max-width: 1000px) {
+  footer .footer-head {
+    display: flex;
+    flex-direction: column;
+  }
+  footer .footer-head li {
+    display: block;
+    text-align: center;
+    margin: 0 auto;
+    justify-content: center;
+  }
+  footer .footer-head li p {
+    margin-top: 15px;
+    font-size: 0.9rem;
+    color: #9f9f9f;
+    font-weight: 800;
+  }
+  footer .footer-head li span {
+    display: block;
+    color: #9f9f9f;
+    font-weight: 600;
+  }
+  footer .footer-head li img {
+    width: 50px;
+    height: 50px;
+    margin: 0 auto;
+  }
+}
+
+/*# sourceMappingURL=footer.css.map */

@@ -1,0 +1,28 @@
+{
+  "dependencies": {
+    "bootstrap": "5.2"
+  },
+  "name": "footer-rtl",
+  "version": "1.0.0",
+  "description": "Footer Rtl ",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/4xmen/Web-Package-RTL.git"
+  },
+  "keywords": [
+    "Footer",
+    "RTL",
+    "Persian-Footer"
+  ],
+  "author": "Nisay",
+  "license": "GPL-3.0-or-later",
+  "bugs": {
+    "url": "https://github.com/4xmen/Web-Package-RTL/issues"
+  },
+  "homepage": "https://github.com/4xmen/Web-Package-RTL#readme"
+}
