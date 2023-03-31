@@ -1,0 +1,274 @@
+
+// Footer Section
+.footer-section {
+  background-color: rgba(8,10,18,0.88);
+  width: 100%;
+  margin-top: 193px;
+  position: relative;
+}
+
+.footer-cta {
+  border-bottom: 1px solid #373636;
+}
+
+.single-cta {
+  i {
+    color: #ff5e14;
+    font-size: 30px;
+    float: left;
+    margin-top: 8px;
+  }
+}
+
+.cta-text {
+  padding-left: 15px;
+  display: inline-block;
+
+  h4 {
+    color: #fff;
+    font-size: 20px;
+    font-weight: 600;
+    margin-bottom: 2px;
+  }
+
+  span {
+    color: #757575;
+    font-size: 15px;
+  }
+}
+
+.footer-content {
+  position: relative;
+  z-index: 2;
+}
+
+.footer-pattern {
+  img {
+    position: absolute;
+    top: 0;
+    left: 0;
+    height: 330px;
+    background-size: cover;
+    background-position: 100% 100%;
+  }
+}
+
+.footer-logo {
+  margin-bottom: 30px;
+
+  img {
+    max-width: 200px;
+  }
+}
+
+.footer-text {
+  p {
+    margin-bottom: 14px;
+    font-size: 14px;
+    color: #7e7e7e;
+    line-height: 28px;
+  }
+}
+
+.footer-social-icon {
+  span {
+    color: #fff;
+    display: block;
+    font-size: 26px;
+    letter-spacing: -1px;
+    font-weight: 700;
+    font-family: 'Poppins', sans-serif;
+    margin-bottom: 20px;
+  }
+
+  ul {
+    margin: 0;
+    padding: 0;
+    display: flex;
+
+    li {
+      list-style: none;
+
+      a {
+        position: relative;
+        width: 60px;
+        height: 60px;
+        display: block;
+        text-align: center;
+        margin: 0 10px;
+        border-radius: 50%;
+        padding: 6px;
+        box-sizing: border-box;
+        text-decoration: none;
+        box-shadow: 0 10px 15px rgba(0, 0, 0, 0.3);
+        background: linear-gradient(0deg, #ddd, #fff);
+        transition: 666ms;
+
+        &:hover {
+          box-shadow: 0 2px 5px gray;
+          text-decoration: none;
+        }
+
+        .fab {
+          width: 100%;
+          height: 100%;
+          display: block;
+          background: linear-gradient(0deg, #fff, #ddd);
+          border-radius: 50%;
+          line-height: calc(60px - 12px);
+          font-size: 24px;
+          color: #262626;
+          transition: .5s;
+        }
+      }
+
+      &:nth-child(1) {
+        a {
+          &:hover {
+            .fab {
+              color: #0088cc;
+            }
+          }
+        }
+      }
+
+      &:nth-child(2) {
+        a {
+          &:hover {
+            .fab {
+              color: #00acee;
+            }
+          }
+        }
+      }
+
+      &:nth-child(3) {
+        a {
+          &:hover {
+            .fab {
+              color: #0e76a8;
+            }
+          }
+        }
+      }
+
+      &:nth-child(4) {
+        a {
+          &:hover {
+            .fab {
+              color: #171515;
+            }
+          }
+        }
+      }
+    }
+  }
+
+}
+
+.footer-widget-heading {
+  h3 {
+    color: #fff;
+    font-size: 20px;
+    font-weight: 600;
+    margin-bottom: 40px;
+    position: relative;
+
+    &::before {
+      content: "";
+      position: absolute;
+      right: 0;
+      bottom: -15px;
+      height: 2px;
+      width: 50px;
+      background: #ff5e14;
+    }
+  }
+}
+
+.footer-widget {
+  ul {
+    li {
+      display: inline-block;
+      float: left;
+      width: 50%;
+      margin-bottom: 12px;
+
+      a {
+        text-decoration: none;
+        &:hover {
+          color: #ff5e14;
+        }
+
+        color: #878787;
+        text-transform: capitalize;
+      }
+    }
+  }
+}
+
+.subscribe-form {
+  position: relative;
+  overflow: hidden;
+
+  input {
+    width: 100%;
+    padding: 14px 28px;
+    background: #2E2E2E77;
+    border: 1px solid #2E2E2E;
+    color: #fff;
+  }
+
+  button {
+    position: absolute;
+    width: 58px;
+    right: 0;
+    background: #ff5e14;
+    padding: 13px 20px;
+    border: 1px solid #ff5e14;
+    top: 0;
+
+    i {
+      color: #fff;
+      font-size: 22px;
+      transform: rotate(-6deg);
+    }
+  }
+}
+
+.copyright-area {
+  background: #202020;
+  padding: 25px 0;
+}
+
+.copyright-text {
+  p {
+    margin: 0;
+    font-size: 14px;
+    color: #878787;
+
+    a {
+      color: #ff5e14;
+    }
+  }
+}
+
+.footer-menu {
+  li {
+    display: inline-block;
+    margin-left: 20px;
+
+    &:hover {
+      a {
+        color: #ff5e14;
+      }
+    }
+
+    a {
+      font-size: 14px;
+      color: #878787;
+    }
+  }
+}
+
+// Footer Section Style Finish
