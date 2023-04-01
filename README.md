@@ -34,8 +34,8 @@ U Can Download As zip and use any package you need for your website .
 <img href="https://github.com/4xmen/Web-Package-RTL/tree/main/Footer" src="Footer/Footer-Screen.png" width="1010px">
 </div>
 <div align="center">
-<h2>Dark Theme</h2>
-<img src="example/img/screen-sidemenu-dark.png" width="1010px">
+<h2>Footer #2</h2>
+<img href="https://github.com/4xmen/Web-Package-RTL/tree/main/Footer-Dark" src="Footer-Dark/Footer-Dark-Screen.png" width="1010px">
 </div>
 
 
