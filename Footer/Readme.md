@@ -1,3 +1,3 @@
 # Footer 
 
-<img src="assets/img/Footer-Screen.png.png">
+<img src="Footer-Screen.png.png">
