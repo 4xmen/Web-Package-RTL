@@ -48,7 +48,7 @@ U Can Download As zip and use any package you need for your website .
 | responseWidth  |  `1024`  |  active mobile mode (side menu)  |
 | barsIcon |  -  |  any html element use for toggle bar   |
 | mainTitle  | `Navbar menu`  | change main menu title   |
-| isRtl  |  `false` |  change direction to rtl |
+| isRtl  |  `True` |  Default Rtl |
 |  blurEffect | `false`  |  blur effect when menu active |
 |  resetMenu | `true`  | reset side menu when close  |
 |  disableLinks | `true`  | disable links when has sub menu click event otherwise on mouse enter show sub level   |
