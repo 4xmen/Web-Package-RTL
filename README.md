@@ -37,6 +37,10 @@ U Can Download As zip and use any package you need for your website . ( Use Npm 
 <h2>Footer #2</h2>
 <img href="https://github.com/4xmen/Web-Package-RTL/tree/main/Footer-Dark" src="Footer-Dark/Footer-Dark-Screen.png" width="1010px">
 </div>
+<div align="center">
+<h2>Footer #3</h2>
+<img href="https://github.com/4xmen/Web-Package-RTL/blob/main/footer-dark-purple" src="footer-dark-purple/footer-dark-purple.png" width="1010px">
+</div>
 
 
 
