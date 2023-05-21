@@ -23,19 +23,19 @@ U Can Download As zip and use any package you need for your website . ( Use Npm 
 
 <div align="center">
 <h2>Mega Menu </h2>
-<a href="https://github.com/4xmen/Web-Package-RTL/tree/main/Mega-Menu"><img src="Mega-Menu/Mega-Menu-Screen.png" width="1010px"></a>
+<a href="https://github.com/4xmen/Web-Package-RTL/tree/main/Mega-Menu"><img src="mega-menu/Mega-Menu-Screen.png" width="1010px"></a>
 </div>
 <div align="center">
 <h2>Contact Form</h2>
-<a href="https://github.com/4xmen/Web-Package-RTL/tree/main/Login-Form"><img src="Login-Form/assets/img/readme-contact.png" width="1010px"></a>
+<a href="https://github.com/4xmen/Web-Package-RTL/tree/main/Login-Form"><img src="login-form/assets/img/readme-contact.png" width="1010px"></a>
 </div>
 <div align="center">
 <h2>Footer #1</h2>
-<a href="https://github.com/4xmen/Web-Package-RTL/tree/main/Footer"><img src="Footer/Footer-Screen.png" width="1010px"></a>
+<a href="https://github.com/4xmen/Web-Package-RTL/tree/main/Footer"><img src="footer/Footer-Screen.png" width="1010px"></a>
 </div>
 <div align="center">
 <h2>Footer #2</h2>
-<a href="https://github.com/4xmen/Web-Package-RTL/tree/main/Footer-Dark"><img  src="Footer-Dark/Footer-Dark-Screen.png" width="1010px"></a>
+<a href="https://github.com/4xmen/Web-Package-RTL/tree/main/Footer-Dark"><img  src="footer-Dark/Footer-Dark-Screen.png" width="1010px"></a>
 </div>
 <div align="center">
 <h2>Footer #3</h2>
