@@ -1,0 +1,33 @@
+{
+  "name": "vazirmatn",
+  "version": "33.0.3",
+  "author": "Saber Rastikerdar <saber.rastikerdar@gmail.com>",
+  "license": "OFL",
+  "description": "Vazirmatn is a Persian/Arabic font. وزیرمتن یک فونت فارسی/عربی است",
+  "keywords": [
+    "font",
+    "farsi",
+    "persian",
+    "arabic",
+    "typeface"
+  ],
+  "files": [
+    "fonts",
+    "misc",
+    "Round-Dots",
+    "Vazirmatn-font-face.css",
+    "Vazirmatn-Variable-font-face.css",
+    "README.md",
+    "OFL.txt",
+    "AUTHORS.txt"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rastikerdar/vazirmatn"
+  },
+  "bugs": {
+    "url": "https://github.com/rastikerdar/vazirmatn/issues"
+  },
+  "homepage": "https://github.com/rastikerdar/vazirmatn#readme",
+  "dependencies": {}
+}
