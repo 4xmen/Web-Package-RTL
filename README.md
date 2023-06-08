@@ -30,6 +30,10 @@ U Can Download As zip and use any package you need for your website . ( Use Npm 
 <a href="https://github.com/4xmen/Web-Package-RTL/tree/main/mega-menu"><img src="mega-menu/Mega-Menu-Screen.png" width="1010px"></a>
 </div>
 <div align="center">
+<h2>Navbar #1 </h2>
+<a href="https://github.com/4xmen/Web-Package-RTL/tree/main/navbar-1"><img src="navbar-1/Navbar-screen.png" width="1010px"></a>
+</div>
+<div align="center">
 <h2>Contact Form</h2>
 <a href="https://github.com/4xmen/Web-Package-RTL/tree/main/login-form"><img src="login-form/assets/img/readme-contact.png" width="1010px"></a>
 </div>
