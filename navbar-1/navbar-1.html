@@ -1,0 +1,84 @@
+<!doctype html>
+<html lang="en" dir="rtl">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport"
+          content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Navbar-1</title>
+    <link rel="stylesheet" href="node_modules/bootstrap/dist/css/bootstrap.rtl.min.css">
+    <link rel="stylesheet" href="node_modules/@fortawesome/fontawesome-free/css/all.min.css">
+    <script src="node_modules/bootstrap/dist/js/bootstrap.bundle.min.js"></script>
+    <style>
+        a{
+            text-decoration: none;
+        }
+    </style>
+</head>
+<body>
+<!-- special navbar -->
+<header class="special-header border-bottom">
+    <nav class="navbar navbar-expand-lg bg-body-tertiary ">
+        <div class="container-fluid container">
+            <a class="navbar-brand" href="#">
+                <img src="4xmen-logo.svg" height="60" alt="">
+            </a>
+            <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarScroll"
+                    aria-controls="navbarScroll" aria-expanded="false" aria-label="Toggle navigation">
+                <span class="navbar-toggler-icon"></span>
+            </button>
+            <div class="collapse navbar-collapse" id="navbarScroll">
+                <ul class="navbar-nav me-auto my-2 my-lg-0 navbar-nav-scroll" style="--bs-scroll-height: 100px;">
+                    <li class="nav-item dropdown">
+                        <a class="nav-link dropdown-toggle" href="#" role="button" data-bs-toggle="dropdown"
+                           aria-expanded="false">
+                            فهرست مطالب
+                        </a>
+                        <ul class="dropdown-menu">
+                            <li><a class="dropdown-item" href="#">مطالب</a></li>
+                            <li><a class="dropdown-item" href="#">ویدیو ها</a></li>
+                            <li><a class="dropdown-item" href="#">آموزش</a></li>
+                            <li><a class="dropdown-item" href="#">نکته</a></li>
+                            <li><a class="dropdown-item" href="#">ترفند</a></li>
+                        </ul>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link active" aria-current="page" href="#">ویدیو های آموزشی</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" href="#">آموزش مقدماتی</a>
+                    </li>
+                    <li class="nav-item">
+                        <a href="#" class="nav-link">متن دلخواه</a>
+                    </li>
+                </ul>
+                <form class="d-flex" role="search">
+                    <input class="form-control me-2" type="search" placeholder="جستجو" aria-label="Search">
+                    <button class="btn btn-outline-info" type="submit"><i class="fa fa-search"></i></button>
+                </form>
+            </div>
+        </div>
+    </nav>
+</header>
+<div class="container">
+    <div class="nav-scroller py-1 mb-2">
+        <nav class="nav d-flex justify-content-between">
+            <a class="p-2 link-secondary" href="#">سرگرمی</a>
+            <a class="p-2 link-secondary" href="#">موسیقی</a>
+            <a class="p-2 link-secondary" href="#">تکنولوژی</a>
+            <a class="p-2 link-secondary" href="#">مسابقه</a>
+            <a class="p-2 link-secondary" href="#">طراحی</a>
+            <a class="p-2 link-secondary" href="#">گجت ها</a>
+            <a class="p-2 link-secondary" href="#">جدید ترینها</a>
+            <a class="p-2 link-secondary" href="#">به روز ترینها</a>
+            <a class="p-2 link-secondary" href="#">به صرفه ترین ها</a>
+            <a class="p-2 link-secondary" href="#">موبایل</a>
+            <a class="p-2 link-secondary" href="#">لبتاپ</a>
+            <a class="p-2 link-secondary" href="#">آخرین ها</a>
+        </nav>
+    </div>
+</div>
+<!-- special navbar -->
+
+</body>
+</html>
