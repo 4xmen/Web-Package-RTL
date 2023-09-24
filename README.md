@@ -16,25 +16,27 @@ If you want A Full Web Package Direction RTL that is usefull For WebPages easy t
 
 
 ## How use it?
-U Can Download As zip and use any package you need for your website . ( Use Npm install just in folders of any package you want to use it. )
+You can download As zip and use any package you need for your website . 
++ install npm package for all packages:
+    + `npm install`
 
 
 # Demo
 
 <div align="center">
-<h2> Xmen Template </h2>
-<a href="https://github.com/4xmen/Web-Package-RTL/tree/main/xmen-template"><img src="xmen-template/xmen-template.png" width="1010px"></a>
+<h2>Mega Menu #1</h2>
+<a href="https://github.com/4xmen/Web-Package-RTL/tree/main/mega-menu"><img src="mega-menu/Mega-Menu-Screen.png" width="1010px"></a>
 </div>
 <div align="center">
-<h2>Mega Menu </h2>
-<a href="https://github.com/4xmen/Web-Package-RTL/tree/main/mega-menu"><img src="mega-menu/Mega-Menu-Screen.png" width="1010px"></a>
+<h2>Mega Menu #2</h2>
+<a href="https://github.com/4xmen/Web-Package-RTL/tree/main/mega-menu-2"><img src="mega-menu-2/mega-menu-2-screen.png" width="1010px"></a>
 </div>
 <div align="center">
 <h2>Navbar #1 </h2>
 <a href="https://github.com/4xmen/Web-Package-RTL/tree/main/navbar-1"><img src="navbar-1/Navbar-screen.png" width="1010px"></a>
 </div>
 <div align="center">
-<h2>Contact Form</h2>
+<h2>Contact Form #1</h2>
 <a href="https://github.com/4xmen/Web-Package-RTL/tree/main/login-form"><img src="login-form/assets/img/readme-contact.png" width="1010px"></a>
 </div>
 <div align="center">
@@ -48,6 +50,10 @@ U Can Download As zip and use any package you need for your website . ( Use Npm 
 <div align="center">
 <h2>Footer #3</h2>
 <a href="https://github.com/4xmen/Web-Package-RTL/blob/main/footer-dark-purple"><img src="footer-dark-purple/footer-dark-purple.png" width="1010px"></a>
+</div>
+<div align="center">
+<h2> Full Template #1 </h2>
+<a href="https://github.com/4xmen/Web-Package-RTL/tree/main/xmen-template"><img src="xmen-template/xmen-template.png" width="1010px"></a>
 </div>
 
 
@@ -69,7 +75,7 @@ U Can Download As zip and use any package you need for your website . ( Use Npm 
 
 
 ## Report Some Bugs
-Find a Bug? Please, [create an issue](https://github.com/4xmen/Web-Package-RTL/issues) and we'll fix it together for a better template.
+Find a Bug? Please, [create an issue,](https://github.com/4xmen/Web-Package-RTL/issues) and we'll fix it together for a better template.
 
 ## Contribution
 Contribution are always welcome and recommended! Here is how:
@@ -88,6 +94,7 @@ Contribution are always welcome and recommended! Here is how:
 [![Xstack](https://img.shields.io/badge/Xstack-Team-red.svg)](https://xstack.ir)
 [![4xmen](https://img.shields.io/badge/4xmen-Team-black.svg)](https://4xmen.ir)
 [![Devefun](https://img.shields.io/badge/Devefun-Community-blue.svg)](https://Telegram.me/Devefun)
+[![Iran](https://img.shields.io/badge/Free-Iran-green.svg)](https://Telegram.me/Devefun)
 
 </div>
 
@@ -99,4 +106,4 @@ Contribution are always welcome and recommended! Here is how:
 [GPL](https://www.gnu.org/licenses/gpl-3.0.en.html)
 
 
-<div align="center"> Developed With Love ! ❤️</div>
+<div align="center"> Developed With Love For Iranian's ! ❤️</div>
