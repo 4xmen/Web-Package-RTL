@@ -1,0 +1,31 @@
+{
+  "name": "Mega-Menu-2",
+  "version": "1.0.0",
+  "description": "Gaming Shop",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "watch": "sass Mega-Menu-2/assets/scss/mega-menu-2.scss Mega-Menu-2/assets/css/mega-menu-2.css --watch"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/4xmen/Web-Package-RTL"
+  },
+  "keywords": [
+    "Game",
+    "Shop"
+  ],
+  "author": "YasinDehfuli",
+  "license": "GPL-3.0-or-later",
+  "bugs": {
+    "url": "https://github.com/4xmen/Web-Package-RTL/issues"
+  },
+  "homepage": "https://github.com/4xmen/Web-Package-RTL#readme",
+  "dependencies": {
+    "@fortawesome/fontawesome-free": "^6.4.2",
+    "bootstrap": "^5.3.1",
+    "jquery": "^3.7.0",
+    "remixicon": "^3.5.0",
+    "vazirmatn": "^33.0.3"
+  }
+}
