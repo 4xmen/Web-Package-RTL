@@ -45,7 +45,7 @@ particle = {
 
 function init() {
 
-    container = document.getElementById( 'footer' );
+    container = document.getElementById( 'footer-1' );
     canvas = document.createElement( 'canvas' );
 
     ctx = canvas.getContext( '2d' );
