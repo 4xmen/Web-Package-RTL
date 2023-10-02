@@ -1,0 +1,214 @@
+@import "../../../node_modules/bootstrap/dist/css/bootstrap.rtl.min.css";
+@import "../../../node_modules/@fortawesome/fontawesome-free/css/all.min.css";
+@import "../../../node_modules/vazirmatn/Vazirmatn-font-face.css";
+@import "../../../node_modules/vazirmatn/Vazirmatn-Variable-font-face.css";
+* {
+  box-sizing: border-box;
+  font-family: Vazirmatn, "Vazirmatn FD", serif;
+  padding: 0;
+  margin: 0;
+  direction: rtl;
+}
+
+.top-footer {
+  background-color: #ffffff;
+}
+.top-footer .top-footer-title h4 {
+  font-size: 16px;
+  color: #707070;
+}
+.top-footer .top-footer-title p {
+  font-size: 12px;
+  color: #b7b7b7;
+}
+
+.footer {
+  background-color: #ffffff;
+}
+.footer ul {
+  list-style: none;
+}
+.footer ul a {
+  color: #b7b7b7;
+}
+.footer ul a:hover {
+  color: #b87947;
+}
+.footer .container-inp {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 35px;
+  direction: ltr;
+}
+.footer .input {
+  max-width: 190px;
+  height: 100%;
+  outline: none;
+  font-size: 14px;
+  font-weight: 500;
+  background-color: #f6f6f6;
+  caret-color: #f7f7f8;
+  color: black;
+  padding: 7px 10px;
+  border: 2px solid transparent;
+  border-top-left-radius: 7px;
+  border-bottom-left-radius: 7px;
+  margin-right: 1px;
+  transition: all 0.2s ease;
+}
+.footer .input:hover {
+  border: 2px solid rgba(255, 255, 255, 0.16);
+}
+.footer .input:focus {
+  border: 2px solid #b87947;
+  background-color: #ffffff;
+}
+.footer .search__btn {
+  border: none;
+  cursor: pointer;
+  background-color: #f6f6f6;
+  border-top-right-radius: 7px;
+  border-bottom-right-radius: 7px;
+  height: 100%;
+  width: 30px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.footer .search__btn:hover {
+  background-color: #b87947;
+}
+.footer .footer-mail p {
+  text-align: center;
+  color: #b7b7b7;
+  font-size: 12px;
+}
+.footer .validity p {
+  color: #b7b7b7;
+  font-size: 15px;
+  text-align: justify;
+}
+.footer .validity img {
+  display: block;
+  margin: auto;
+  height: auto;
+}
+.footer .social-buttons {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 8px;
+}
+.footer .social-button {
+  position: relative;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  outline: none;
+  width: 64px;
+  height: 64px;
+  text-decoration: none;
+  border-radius: 100%;
+  background: #fff;
+  text-align: center;
+}
+.footer .social-button::after {
+  content: "";
+  position: absolute;
+  top: -1px;
+  left: 50%;
+  display: block;
+  width: 0;
+  height: 0;
+  border-radius: 100%;
+  transition: 0.3s;
+}
+.footer .social-button:focus, .footer .social-button:hover {
+  color: #fff;
+}
+.footer .social-button:focus::after, .footer .social-button:hover::after {
+  width: calc(100% + 2px);
+  height: calc(100% + 2px);
+  margin-left: calc(-50% - 1px);
+}
+.footer .social-button i,
+.footer .social-button svg {
+  position: relative;
+  z-index: 1;
+  transition: 0.3s;
+}
+.footer .social-button i {
+  font-size: 25.6px;
+}
+.footer .social-button svg {
+  height: 40%;
+  width: 40%;
+}
+.footer .social-button--mail {
+  color: #0072c6;
+}
+.footer .social-button--mail::after {
+  background: #0072c6;
+}
+.footer .social-button--facebook {
+  color: #3b5999;
+}
+.footer .social-button--facebook::after {
+  background: #3b5999;
+}
+.footer .social-button--linkedin {
+  color: #0077b5;
+}
+.footer .social-button--linkedin::after {
+  background: #0077b5;
+}
+.footer .social-button--github {
+  color: #6e5494;
+}
+.footer .social-button--github::after {
+  background: #6e5494;
+}
+.footer .social-button--codepen {
+  color: #212121;
+}
+.footer .social-button--codepen::after {
+  background: #212121;
+}
+.footer .social-button--steam {
+  color: #7da10e;
+}
+.footer .social-button--steam::after {
+  background: #7da10e;
+}
+.footer .social-button--snapchat {
+  color: #eec900;
+}
+.footer .social-button--snapchat::after {
+  background: #eec900;
+}
+.footer .social-button--twitter {
+  color: #55acee;
+}
+.footer .social-button--twitter::after {
+  background: #55acee;
+}
+.footer .social-button--instagram {
+  color: #e4405f;
+}
+.footer .social-button--instagram::after {
+  background: #e4405f;
+}
+.footer .social-button--npmjs {
+  color: #c12127;
+}
+.footer .social-button--npmjs::after {
+  background: #c12127;
+}
+
+.footer-terms p {
+  font-size: 12px;
+  color: #b7b7b7;
+}
+
+/*# sourceMappingURL=footer-4.css.map */
