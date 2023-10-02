@@ -1,0 +1,256 @@
+// links
+
+//bootstrap
+@import "../../../node_modules/bootstrap/dist/css/bootstrap.rtl.min.css";
+//fontawesome
+@import "../../../node_modules/@fortawesome/fontawesome-free/css/all.min.css";
+//vazirmatn
+@import "../../../node_modules/vazirmatn/Vazirmatn-font-face.css";
+@import "../../../node_modules/vazirmatn/Vazirmatn-Variable-font-face.css";
+
+// links
+
+// Colors
+
+// main colors
+$bg1: #ffffff;
+$bg2: #f6f6f6;
+
+// text colors
+$txt-title: #707070;
+$txt-para: #b7b7b7;
+//$txt-hover: #d60644;
+
+// palette 2
+$txt-hover: #b87947;
+$brown-2: #facf9d;
+
+// Colors
+
+// font sizes
+$fs-title: 16px;
+$fs-paragraph: 12px;
+$box-title: 15px;
+$box-price: 20px;
+
+$fs-title-mob: 13px;
+$fs-paragraph-mob: 10px;
+
+//border radius
+$border:30px;
+
+// Stars
+
+* {
+  box-sizing: border-box;
+  font-family: Vazirmatn, "Vazirmatn FD", serif;
+  padding: 0;
+  margin: 0;
+  direction: rtl;
+}
+
+// Stars
+
+
+.top-footer {
+  background-color: $bg1;
+
+  .top-footer-title {
+    h4 {
+      font-size: $fs-title;
+      color: $txt-title;
+    }
+
+    p {
+      font-size: $fs-paragraph;
+      color: $txt-para;
+    }
+  }
+}
+
+.footer {
+  background-color: $bg1;
+
+  ul {
+    list-style: none;
+
+    a {
+      color: $txt-para;
+
+      &:hover {
+        color: $txt-hover;
+
+      }
+    }
+  }
+
+  .container-inp {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 35px;
+    direction: ltr;
+  }
+
+  .input {
+    max-width: 190px;
+    height: 100%;
+    outline: none;
+    font-size: 14px;
+    font-weight: 500;
+    background-color: $bg2;
+    caret-color: #f7f7f8;
+    color: black;
+    padding: 7px 10px;
+    border: 2px solid transparent;
+    border-top-left-radius: 7px;
+    border-bottom-left-radius: 7px;
+    margin-right: 1px;
+    transition: all .2s ease;
+
+    &:hover {
+      border: 2px solid rgba(255, 255, 255, 0.16);
+    }
+
+    &:focus {
+      border: 2px solid $txt-hover;
+      background-color: $bg1;
+    }
+  }
+
+  .search__btn {
+    border: none;
+    cursor: pointer;
+    background-color: $bg2;
+    border-top-right-radius: 7px;
+    border-bottom-right-radius: 7px;
+    height: 100%;
+    width: 30px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+    &:hover {
+      background-color: $txt-hover;
+    }
+  }
+
+  .footer-mail {
+    p {
+      text-align: center;
+      color: $txt-para;
+      font-size: $fs-paragraph;
+    }
+  }
+
+  .validity {
+    p {
+      color: $txt-para;
+      font-size: $box-title;
+      text-align: justify;
+    }
+
+    img {
+      display: block;
+      margin: auto;
+      height: auto;
+    }
+  }
+
+  .social-buttons {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 8px;
+  }
+
+  $social-button-size: 64px;
+  $social-button-icon-size: 0.4;
+  $social-button-background: #fff;
+  $social-button-active-color: #fff;
+  $social-button-transition-time: 0.3s;
+
+  $social-button-colors: (
+          'mail': #0072c6,
+          'facebook': #3b5999,
+          'linkedin': #0077b5,
+          'github': #6e5494,
+          'codepen': #212121,
+          'steam': #7da10e,
+          'snapchat': #eec900,
+          'twitter': #55acee,
+          'instagram': #e4405f,
+          'npmjs': #c12127,
+  );
+
+  .social-button {
+    position: relative;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    outline: none;
+    width: $social-button-size;
+    height: $social-button-size;
+    text-decoration: none;
+    border-radius: 100%;
+    background: $social-button-background;
+    text-align: center;
+
+    &::after {
+      content: '';
+      position: absolute;
+      top: -1px;
+      left: 50%;
+      display: block;
+      width: 0;
+      height: 0;
+      border-radius: 100%;
+      transition: $social-button-transition-time;
+    }
+
+    &:focus,
+    &:hover {
+      color: $social-button-active-color;
+
+      &::after {
+        width: calc(100% + 2px);
+        height: calc(100% + 2px);
+        margin-left: calc(-50% - 1px);
+      }
+    }
+
+    i,
+    svg {
+      position: relative;
+      z-index: 1;
+      transition: $social-button-transition-time;
+    }
+
+    i {
+      font-size: $social-button-size * $social-button-icon-size;
+    }
+
+    svg {
+      height: percentage($social-button-icon-size);
+      width: percentage($social-button-icon-size);
+    }
+
+    @each $name, $color in $social-button-colors {
+      &--#{$name} {
+        color: $color;
+
+        &::after {
+          background: $color;
+        }
+      }
+    }
+  }
+
+}
+
+.footer-terms {
+  p {
+    font-size: $fs-paragraph;
+    color: $txt-para;
+  }
+}
