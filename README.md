@@ -25,43 +25,47 @@ You can download As zip and use any package you need for your website .
 
 <div align="center">
 <h2>Mega Menu #1</h2>
-<a href="https://github.com/4xmen/Web-Package-RTL/tree/main/mega-menu-1"><img src="mega-menu-1/Mega-Menu-Screen.png" width="1010px"></a>
+<a href="https://github.com/4xmen/Web-Package-RTL/tree/main/mega-menu-1"><img src="mega-menu-1/Mega-Menu-Screen.png" alt="Mega-Menu-1" width="1010px"></a>
 </div>
 <div align="center">
 <h2>Mega Menu #2</h2>
-<a href="https://github.com/4xmen/Web-Package-RTL/tree/main/mega-menu-2"><img src="mega-menu-2/mega-menu-2-screen.png" width="1010px"></a>
+<a href="https://github.com/4xmen/Web-Package-RTL/tree/main/mega-menu-2"><img src="mega-menu-2/mega-menu-2-screen.png" alt="Mega-Menu-2" width="1010px"></a>
 </div>
 <div align="center">
 <h2>Mega Menu #3</h2>
-<a href="https://github.com/4xmen/Web-Package-RTL/tree/main/mega-menu-3"><img src="mega-menu-3/mega-menu-3-screen.png" width="1010px"></a>
+<a href="https://github.com/4xmen/Web-Package-RTL/tree/main/mega-menu-3"><img src="mega-menu-3/mega-menu-3-screen.png" alt="Mega-Menu-3" width="1010px"></a>
 </div>
 <div align="center">
 <h2>Navbar #1 </h2>
-<a href="https://github.com/4xmen/Web-Package-RTL/tree/main/navbar-1"><img src="navbar-1/Navbar-screen.png" width="1010px"></a>
+<a href="https://github.com/4xmen/Web-Package-RTL/tree/main/navbar-1"><img src="navbar-1/Navbar-screen.png" alt="Navbar-1" width="1010px"></a>
+</div>
+<div align="center">
+<h2>Pricing #1 </h2>
+<a href="https://github.com/4xmen/Web-Package-RTL/tree/main/pricing-1"><video src="pricing-1/pricing-1-screen.mov" width="1010px"></video></a>
 </div>
 <div align="center">
 <h2>Contact Form #1</h2>
-<a href="https://github.com/4xmen/Web-Package-RTL/tree/main/login-form-1"><img src="login-form-1/assets/img/readme-contact.png" width="1010px"></a>
+<a href="https://github.com/4xmen/Web-Package-RTL/tree/main/login-form-1"><img src="login-form-1/assets/img/readme-contact.png" alt="Contact-1" width="1010px"></a>
 </div>
 <div align="center">
 <h2>Footer #1</h2>
-<a href="https://github.com/4xmen/Web-Package-RTL/tree/main/footer-1"><img src="footer-1/footer-screen.png" width="1010px"></a>
+<a href="https://github.com/4xmen/Web-Package-RTL/tree/main/footer-1"><img src="footer-1/footer-screen.png" alt="Footer-1" width="1010px"></a>
 </div>
 <div align="center">
 <h2>Footer #2</h2>
-<a href="https://github.com/4xmen/Web-Package-RTL/tree/main/footer-2"><img  src="footer-2/Footer-Dark-Screen.png" width="1010px"></a>
+<a href="https://github.com/4xmen/Web-Package-RTL/tree/main/footer-2"><img  src="footer-2/Footer-Dark-Screen.png" alt="Footer-2" width="1010px"></a>
 </div>
 <div align="center">
 <h2>Footer #3</h2>
-<a href="https://github.com/4xmen/Web-Package-RTL/blob/main/footer-3"><img src="footer-3/footer-dark-purple.png" width="1010px"></a>
+<a href="https://github.com/4xmen/Web-Package-RTL/blob/main/footer-3"><img src="footer-3/footer-dark-purple.png" alt="Footer-3" width="1010px"></a>
 </div>
 <div align="center">
 <h2>Footer #4</h2>
-<a href="https://github.com/4xmen/Web-Package-RTL/blob/main/footer-4"><img src="footer-4/footer-4-screen.png" width="1010px"></a>
+<a href="https://github.com/4xmen/Web-Package-RTL/blob/main/footer-4"><img src="footer-4/footer-4-screen.png" alt="Footer-4" width="1010px"></a>
 </div>
 <div align="center">
 <h2> Full Template #1 </h2>
-<a href="https://github.com/4xmen/Web-Package-RTL/tree/main/template-1"><img src="template-1/xmen-template.png" width="1010px"></a>
+<a href="https://github.com/4xmen/Web-Package-RTL/tree/main/template-1"><img src="template-1/xmen-template.png" alt="Full-Template-1" width="1010px"></a>
 </div>
 
 
