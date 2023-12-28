@@ -41,7 +41,7 @@ You can download As zip and use any package you need for your website .
 </div>
 <div align="center">
 <h2>Pricing #1 </h2>
-<a href="https://github.com/4xmen/Web-Package-RTL/tree/main/pricing-1"><video src="pricing-1/pricing-1-screen.mov" width="1010px"></video></a>
+<a href="https://github.com/4xmen/Web-Package-RTL/tree/main/pricing-1"><img src="pricing-1/pricing-1-screen.png" alt="Pricing-1" width="1010px"></a>
 </div>
 <div align="center">
 <h2>Contact Form #1</h2>
