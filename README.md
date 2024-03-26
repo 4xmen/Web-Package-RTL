@@ -36,6 +36,10 @@ You can download As zip and use any package you need for your website .
 <a href="https://github.com/4xmen/Web-Package-RTL/tree/main/mega-menu-3"><img src="mega-menu-3/mega-menu-3-screen.png" alt="Mega-Menu-3" width="1010px"></a>
 </div>
 <div align="center">
+<h2>Mega Menu #4</h2>
+<a href="https://github.com/4xmen/Web-Package-RTL/tree/main/mega-menu-4"><img src="mega-menu-4/mega-menu-4-screen.png" alt="Mega-Menu-4" width="1010px"></a>
+</div>
+<div align="center">
 <h2>Navbar #1 </h2>
 <a href="https://github.com/4xmen/Web-Package-RTL/tree/main/navbar-1"><img src="navbar-1/Navbar-screen.png" alt="Navbar-1" width="1010px"></a>
 </div>
