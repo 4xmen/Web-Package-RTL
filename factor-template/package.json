@@ -1,0 +1,22 @@
+{
+  "name": "financial-factor-template",
+  "version": "1.0.0",
+  "description": "Financtial Factor Template For Iranians",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/YasinDehfuli/Financial-Factor-Template.git"
+  },
+  "author": "YasinDehfuli",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/YasinDehfuli/Financial-Factor-Template/issues"
+  },
+  "homepage": "https://github.com/YasinDehfuli/Financial-Factor-Template#readme",
+  "dependencies": {
+    "bootstrap": "^5.3.3"
+  }
+}
