@@ -71,6 +71,10 @@ You can download As zip and use any package you need for your website .
 <h2> Full Template #1 </h2>
 <a href="https://github.com/4xmen/Web-Package-RTL/tree/main/template-1"><img src="template-1/xmen-template.png" alt="Full-Template-1" width="1010px"></a>
 </div>
+<div align="center">
+<h2> factor template </h2>
+<a href="https://github.com/4xmen/Web-Package-RTL/tree/main/factor-template"><img src="factor-template/assets/images/factor-official.png" alt="factor" width="1010px"></a>
+</div>
 
 
 
